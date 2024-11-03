@@ -6,7 +6,7 @@
 ## Table of contents
 * [Introduction project aim](#Introduction)
 * [Technologies which python version, colab etc](#Technologies)
-* [Launch]how to run, (#Launch)
+* [Launch](#Launch)
 * [Screenshots](#Screenshots)
 * [Usage](#Usage)
 * [Project Status](#Project-Status)
