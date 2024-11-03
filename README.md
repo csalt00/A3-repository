@@ -29,7 +29,7 @@ Press this button in the top left corner:
 
 2. Then, press the Play button:
    
-![Play button screenshot]([runbutton.png](https://github.com/csalt00/A3-repository/blob/2e1486c4fb0dc0a97f354053aff45eebf46e6d0f/Run%20button.png))
+![Play button screenshot]([runbutton.png])
 
 3. Once loaded, scroll to bottom (it may take you there automatically)
 - you should see this menu returned
