@@ -29,12 +29,12 @@ Press this button in the top left corner:
 
 2. Then, press the Play button:
    
-![Play button screenshot]([runbutton.png])
+![Play button screenshot](Runbutton.png)
 
 3. Once loaded, scroll to bottom (it may take you there automatically)
 - you should see this menu returned
 
-![Input Return](Inputanser.png)
+![Input Return](Inputanswer.png)
 
 ## Usage
 - Students, how i use it
