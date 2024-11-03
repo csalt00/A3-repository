@@ -24,7 +24,9 @@
 ## Screenshots
 - Play button
 ![Play button screenshot](run_button.png)
-- scroll to bottom, screenshot of return
+- scroll to bottom,
+- screenshot of return
+![Input Return](Input_anser.png)
 
 ## Usage
 - Students, how i use it
