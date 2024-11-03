@@ -21,13 +21,19 @@
 ## Launch
 - scroll to bottom
 
-## Screenshots
-- Click link at the top of the Read Me File
+## Screenshots1
+1. Click link at the top of the Read Me File
+Press this button in the top left corner:
+
 ![Open Colab button](opencolab.png)
-- Play button
+
+2. Then, press the Play button:
+   
 ![Play button screenshot]([runbutton.png](https://github.com/csalt00/A3-repository/blob/2e1486c4fb0dc0a97f354053aff45eebf46e6d0f/Run%20button.png))
-- scroll to bottom,
-- screenshot of return
+
+3. Once loaded, scroll to bottom (it may take you there automatically)
+- you should see this menu returned
+
 ![Input Return](Inputanser.png)
 
 ## Usage
