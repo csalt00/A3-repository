@@ -36,6 +36,8 @@ Press this button in the top left corner:
 
 ![Input Return](Inputanswer.png)
 
+4. Continue following the instructions by typing your answer then pressing enter
+
 ## Usage
 - Students, how i use it
 - Teachers
