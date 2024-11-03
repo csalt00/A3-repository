@@ -23,7 +23,7 @@
 
 ## Screenshots
 - Play button
-(./img/screenshot.png)
+![Play button screenshot](image.png)
 - scroll to bottom, screenshot of return
 
 ## Usage
