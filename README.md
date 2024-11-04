@@ -39,15 +39,16 @@ Press this button in the top left corner:
 4. Continue following the instructions by typing your answer then pressing enter
 
 ## Usage
-- Students, how i use it
-- Teachers
-- General memory aid
+- Originally created for me (a student) to remember and store the names and information of people in my multiple classes. 
+- However, anyone wanting to store the names (age, degree, fun fact etc) of people in situations where this is not the main memory priority, will be able to use it in their own way.
+- It can also just serve as a general memory aid for teachers, educators, people who work in teams or groups and other similar settings.
 
 ## Project Status
-- stretch goals not achieved
+- This project is incomplete
+- For example, my stretch goals that I did not achieve were searching people by subject, and being able to send an invitation for a contact that I could add to the book.
 
 ## Acknowledgements
-- inspirations
+- This idea was inspired by a contact book created by Aminah Mardiyyah Rufai. [ here ](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
 - sources
 
   
