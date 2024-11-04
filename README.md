@@ -1,4 +1,4 @@
-# Secret Classmate
+# Secret Classmate 
 > Access to prototype [_here_](C_Salt_A2_Secret_Classmate.ipynb). <!-- If you have the project hosted somewhere, include the link here. -->
 
 
