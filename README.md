@@ -13,13 +13,13 @@
 * [Acknowledgements](#Acknowledgements)
 
 ## Introduction 
-######examples of use (useful for students or teachers who need to keep track of people)
+The Secret Classmate is an prototype created to solve an all too common problem: forgetting people's names. As a University student doing 4 class, with meeting anywhere between 4-8 people per lesson, there are alot of names, ages, degrees, and ice breaker fun facts to learn and remember about these people, let alone also paying attention to the content within the class. So, I decided to make an interactive contact book to store all of this information on. Be able to quickly look up people, read their contact information and then continue the conversation without it being awkward. 
+
 ## Technologies Used
-- Python
-- Google Colab
+- Coded using Python language on Google Colab
 
 ## Launch
-- scroll to bottom
+- Launch the program by following the below screenshot pathway
 
 ## Screenshots1
 1. Click link at the top of the Read Me File
