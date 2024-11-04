@@ -1,11 +1,10 @@
 # Secret Classmate
-> Outline a brief description of your project.
-> Live demo [_here_](C_Salt_A2_Secret_Classmate.ipynb). <!-- If you have the project hosted somewhere, include the link here. -->
+> Access to prototype [_here_](C_Salt_A2_Secret_Classmate.ipynb). <!-- If you have the project hosted somewhere, include the link here. -->
 
 
 ## Table of contents
-* [Introduction project aim](#Introduction)
-* [Technologies which python version, colab etc](#Technologies)
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
 * [Launch](#Launch)
 * [Screenshots](#Screenshots)
 * [Usage](#Usage)
@@ -21,7 +20,7 @@ The Secret Classmate is an prototype created to solve an all too common problem:
 ## Launch
 - Launch the program by following the below screenshot pathway
 
-## Screenshots1
+## Screenshots
 1. Click link at the top of the Read Me File
 Press this button in the top left corner:
 
