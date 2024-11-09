@@ -48,7 +48,6 @@ Press this button in the top left corner:
 
 ## Acknowledgements
 - This idea was inspired by a contact book created by Aminah Mardiyyah Rufai. [ here ](https://mardiyyah.medium.com/building-a-simple-phonebook-learnpythonthroughprojects-series-10-af56d527f463)
-- sources
 
   
 
